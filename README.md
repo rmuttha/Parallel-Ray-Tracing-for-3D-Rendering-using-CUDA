@@ -75,5 +75,5 @@ The provided Makefile facilitates the compilation of all source files, linking n
 ## Conclusion
 
 This project demonstrates the efficiency of parallel processing in rendering complex 3D scenes using ray tracing. Future improvements could include implementing more advanced lighting techniques, such as global illumination or motion blur, to enhance the realism of rendered images.
-
+![Output_Result](Output_Result.png)
 
